@@ -1,5 +1,3 @@
-# About the Capstone Project
-
 ## About the Instructor
 
 - Name: Dr. Chaojie (Jay) Wang
