@@ -54,7 +54,7 @@ I recommend using Streamlit.
 - Dash
 - Flask
   
-# 6. Summary/Conclusions
+## 6. Summary/Conclusions
 
 - Summarize what you have done
 - Limitations & future research directions
