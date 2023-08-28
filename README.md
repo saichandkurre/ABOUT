@@ -1,3 +1,3 @@
-# ABOUT the CApston Project
+# About the Capstone Project
 
 This repo contain course materials for this capstone project.
