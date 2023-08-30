@@ -15,4 +15,5 @@
 ## Future Sessions
 
 - Online via [WebEx](https://umbc.webex.com/meet/jaywang)
-  
+- Attendance is required of everyone
+- Email the instructor ahead of time if you are unable to attend
