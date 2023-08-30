@@ -1,4 +1,4 @@
-# Project proposal
+# Structure and Requirements of Project Proposal
 
 ## 1. Background
 
@@ -50,7 +50,12 @@ Develop a web app for people to interact with your trained models. Potential too
 - Dash
 - Flask
 
-6. Conclusion 
+## 6. Conclusion
 
-7. References 
+- Summarize your work and its potetial application
+- Point out the limitations of your work
+- Talk about future research direction
 
+## 7. References 
+
+List articles, blogs, and websites that you have referenced or used in your project.
