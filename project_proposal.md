@@ -24,16 +24,21 @@ Describe the datasets you are using to answer your research questions.
   - Data type
   - Defition
   - Potential values (for categorical valuables, what are the categories?)
+- Which variable/column will be your target/label in your ML model?
+- Which variables/columns may selected as features/predictors for your ML models?
 
 ## 3. Exploratory Data Analysis (EDA)
 
 - Perform data exploration using Jupyter Notebook
+- You would focus on the target variable and the selected features and drop all other columns.
 - produce summary statistics of key variables
-- Create visualizations
+- Create visualizations (I recommend using Plotly)
 - Find out if the data require cleansing:
   - missing values?
   - duplicate rows? 
 - Find out if the data require splitting, merging, pivoting, etc.
+- Find out if you need to bring in other data sources to augment your data.
+  - For example, population, socioeconomic data from Census may be helpful.
 - For textual data, you will pre-process (normalize, remove stopwords, tokenize) them before you can analyze them in predictive analysis/machine learning.
 - Make sure the resulting dataset need to be "tidy":
   - each row represent one observation (ideally one unique entity/subject).
