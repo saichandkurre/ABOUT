@@ -4,6 +4,16 @@
 - You start with the end in mind and adopt an agile approach:
   - making progress continuously towards your goal.
   - Updating this document continuously along the way.
+ 
+## 0. Title and Author
+
+- Project Title
+- Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+- Author 
+- Link to the author's GitHub profile
+- Link to the author's LinkedIn progile
+- Link to your PowerPoint presentation file
+- Link to your  YouTube video 
     
 ## 1. Background
 
