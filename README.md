@@ -8,6 +8,11 @@
 
 ## First Session
 
-- In Person on campus
+- In person on campus
 - Aug 31, Thursday 7:10PM - 9:45PM 
-- Janet & Walter Sondheim 206  
+- Janet & Walter Sondheim 206
+
+## Future Sessions
+
+- Online via [WebEx](https://umbc.webex.com/meet/jaywang)
+  
