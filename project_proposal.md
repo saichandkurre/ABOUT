@@ -1,4 +1,7 @@
-# Structure and Requirements of Project Proposal
+# Structure and Requirements of Project Proposal and Final Report
+
+- This serves as a guide for developing project proposal which will eventually become the final report.
+- You start with the end in mind and adopt an agile approach - making progress continuously towards your goal.
 
 ## 1. Background
 
@@ -36,13 +39,13 @@ Describe the datasets you are using to answer your research questions.
   - each row represent one observation (ideally one unique entity/subject).
   - each columm represents one unique property of that entity. 
 
-## 4. Training the machine learning models 
+## 4. Model Training 
 
 - What models you will be using for predictive analytics?
 - How will you train the models (train vs test split, Python packages to be used, and development environments to be used - local, Google CoLab, GitHub CodeSpaces, etc.)
 - ow will you measure and compare the performance of the models?
 
-## 5. Application of the trained models
+## 5. Application of the Trained Models
 
 Develop a web app for people to interact with your trained models. Potential tools for web app development:
 
