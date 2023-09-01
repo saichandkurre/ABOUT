@@ -30,7 +30,7 @@ Describe the datasets you are using to answer your research questions.
 - Data sources
 - Data size (MB, GB, etc.)
 - Data shape (# of rows and # columns)
-- What does each row represent?(a patient, a school, a crime, etc.) 
+- **What does each row represent?(a patient, a school, a crime, etc.)**
 - Data dictionary
   - Columns name
   - Data type
