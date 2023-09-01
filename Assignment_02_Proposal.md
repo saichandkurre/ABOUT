@@ -5,6 +5,7 @@
 - Get the datasets.
 - Create a Jupyter Notebook to explore the datasets.
 - Complete section 1, 2 and save the document as "proposal.md" in your docs folder.
+- Save your Jupyter Notebook file in the src folder.
 - You will be graded based on the following:
   - The format/style/substance of your proposal
   - The format/style/substance of your Jupyter Notebook
