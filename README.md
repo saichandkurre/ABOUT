@@ -18,7 +18,7 @@
 - Attendance is required of everyone
 - Email the instructor ahead of time if you are unable to attend
 
-## Class Schedule
+## Presentation Schedule
 
 https://docs.google.com/spreadsheets/d/1Jc4chY2tpPjYuxZ3xHxrH8l6AFEg2Vri03qVxWD-6qk/edit?usp=sharing
 
